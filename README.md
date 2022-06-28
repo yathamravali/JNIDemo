@@ -33,7 +33,7 @@ Codename:	bionic
 `ulimit -c unlimited`
 `echo "core" > /proc/sys/kernel/core_pattern`
 
-## Step4: Run Java program
+## Step5: Run Java program
 `java -Djava.library.path=. Crash`
 
 ```
