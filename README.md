@@ -1,6 +1,6 @@
 # JNIDemo
 
-In this project we will call native code from Java using JNI
+In this project we will call native code from Java using JNI that crashes in native code
 
 ```
 java -version
